@@ -1,0 +1,7 @@
+# ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# We need to tell the database that particular records should be associated with each other.
+# Types of Database Relationships : (One-to-many, Many-to-many, One-to-one)
+# One to many (This associates one record in one table with multiple records in another table) is by far the most common relationship.
+# A many-to-many relationship works in a similar way from a one-to-many relationship, and in fact, in most DBMS tools, we model it using two one-to-many relationships. But we create a new table called an associative or linking table
+# A one-to-one relationship associates only one record on one table with only one record on another table, such that the targeted record can't be associated with another record at the same time.
+# ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

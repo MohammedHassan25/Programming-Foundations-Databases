@@ -1,0 +1,4 @@
+# ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# we need to add our own unique information, a surrogate or a synthetic key that will be different for each person so We'll add a Customer ID column to the Customers table.
+# But for security reasons, many people choose to use a value called a UUID, a universally unique identifier, which is much longer and therefore more difficult for an attacker to guess.
+# ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

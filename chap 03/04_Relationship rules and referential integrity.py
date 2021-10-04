@@ -1,0 +1,5 @@
+# --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Databases allow us to benefit from referential integrity, which means the database will be aware of the relationship and will not let you or another user modify data in a way that violates that relationship.
+# This referential integrity helps to keep the database consistent and accurate.
+# It's important to not just define relationships, but also to decide how they'll be enforced by the database.
+# --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
